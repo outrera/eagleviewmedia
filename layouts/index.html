@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+
+{{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
+		<article>
+			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+			{{ if .Params.vidlink }}
+			<video src="{{ .Params.vidlink }}" controls>
+		    {{ end }}
+		</article>
+{{ end }}
+
+
+{{ partial "footer.html" . }}
