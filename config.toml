@@ -2,7 +2,7 @@ baseurl = "https://eagleviewmedia.com/"
 languageCode = "en-us"
 title = "The Talon"
 # Define how many pages appear per site
-paginate = 10
+paginate = 1
 copyright = "The Eagleview Talon.  All rights reserved."
 theme = "hugo-zen"
 

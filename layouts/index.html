@@ -1,14 +1,21 @@
 {{ partial "header.html" . }}
 
-
-{{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
+{{ range .Paginator.Pages }}
 		<article>
-			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+			<h2 class="entry-title" itemprop="headline" style ="padding-left: 40px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 			{{ if .Params.vidlink }}
 			<video src="{{ .Params.vidlink }}" controls>
 		    {{ end }}
 		</article>
 {{ end }}
-
-
+{{ if .Paginator.HasPrev }}
+	<span style ="text-align:left; float: left; padding-left: 80px;">
+		<a href="{{ .Paginator.Prev.URL }}" class="btn btn-danger" role="button">Newer</a>
+	</span>
+{{ end }}
+{{ if .Paginator.HasNext }}
+	<span style ="text-align:right; float: right; padding-right: 80px;">
+		<a href="{{ .Paginator.Next.URL }}" class="btn btn-danger" role="button">Older</a>
+	</span>
+{{ end }}
 {{ partial "footer.html" . }}

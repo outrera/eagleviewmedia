@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline" style ="padding-left: 40px;">{{ .Title }}</h1>
+			<section itemprop="entry-text">
+				{{ .Content }}
+				{{ if .Params.vidlink }}
+					<video src="{{ .Params.vidlink }}" controls>
+		    	{{ end }}
+			</section>
+		</article>
+	</main>
+
+{{ partial "footer.html" . }}
