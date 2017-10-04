@@ -4,6 +4,7 @@
 {{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
 		<article itemscope itemtype="http://schema.org/Blog">
 			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+			{{ .Content }}
 			{{ if .Params.vidlink }}
 			<video src="{{ .Params.vidlink }}" controls>
 		    {{ end }}

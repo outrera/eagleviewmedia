@@ -3,6 +3,7 @@
 {{ range .Paginator.Pages }}
 		<article>
 			<h2 class="entry-title" itemprop="headline" style ="padding-left: 40px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+			{{ .Content }}
 			{{ if .Params.vidlink }}
 			<video src="{{ .Params.vidlink }}" controls>
 		    {{ end }}
