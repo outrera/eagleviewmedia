@@ -7,8 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Eagleview Talon.  All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Nov 2017 15:22:33 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2017 15:22:33 -0600</lastBuildDate>
     <atom:link href="https://eagleviewmedia.com/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>November 9, 2017</title>
+      <link>https://eagleviewmedia.com/video/110917/</link>
+      <pubDate>Thu, 09 Nov 2017 15:22:33 -0600</pubDate>
+      
+      <guid>https://eagleviewmedia.com/video/110917/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/242136603?color=dd0000&amp;title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;1024&#34; height=&#34;576&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>November 7, 2017</title>
@@ -158,15 +171,6 @@
 Here is the link to the Character Education Video:
 &lt;a href=&#34;https://www.youtube.com/watch?v=nwAYpLVyeFU&#34;&gt;Boomerang Video&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>October 10, 2017</title>
-      <link>https://eagleviewmedia.com/video/101017/</link>
-      <pubDate>Tue, 10 Oct 2017 15:22:33 -0600</pubDate>
-      
-      <guid>https://eagleviewmedia.com/video/101017/</guid>
-      <description></description>
     </item>
     
   </channel>
