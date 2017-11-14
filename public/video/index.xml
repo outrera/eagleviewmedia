@@ -7,8 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Eagleview Talon.  All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Nov 2017 15:22:33 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 15:22:33 -0600</lastBuildDate>
     <atom:link href="https://eagleviewmedia.com/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>November 14, 2017</title>
+      <link>https://eagleviewmedia.com/video/111417/</link>
+      <pubDate>Tue, 14 Nov 2017 15:22:33 -0600</pubDate>
+      
+      <guid>https://eagleviewmedia.com/video/111417/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/242827395?color=dd0000&amp;title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;1024&#34; height=&#34;576&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>November 10, 2017</title>
@@ -160,17 +173,6 @@
       <guid>https://eagleviewmedia.com/video/101317/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/238121215?color=dd0000&amp;byline=0&#34; width=&#34;1024&#34; height=&#34;576&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;October 13, 2017 from &lt;a href=&#34;https://vimeo.com/thetalon&#34;&gt;Eagleview Talon&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>October 12, 2017</title>
-      <link>https://eagleviewmedia.com/video/101217/</link>
-      <pubDate>Thu, 12 Oct 2017 15:22:33 -0600</pubDate>
-      
-      <guid>https://eagleviewmedia.com/video/101217/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/237963394&#34; width=&#34;1024&#34; height=&#34;576&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/237963394&#34;&gt;October 12, 2017&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/thetalon&#34;&gt;Eagleview Talon&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
