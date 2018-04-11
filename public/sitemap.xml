@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eagleviewmedia.com/video/41118/</loc>
+    <lastmod>2018-04-11T10:22:33-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eagleviewmedia.com/video/41018/</loc>
     <lastmod>2018-04-10T10:22:33-06:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://eagleviewmedia.com/video/4518/</loc>
     <lastmod>2018-04-05T10:22:33-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eagleviewmedia.com/video/41118/</loc>
-    <lastmod>2018-04-04T10:22:33-06:00</lastmod>
   </url>
   
   <url>
@@ -944,13 +944,13 @@
   
   <url>
     <loc>https://eagleviewmedia.com/</loc>
-    <lastmod>2018-04-10T10:22:33-06:00</lastmod>
+    <lastmod>2018-04-11T10:22:33-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eagleviewmedia.com/video/</loc>
-    <lastmod>2018-04-10T10:22:33-06:00</lastmod>
+    <lastmod>2018-04-11T10:22:33-06:00</lastmod>
     <priority>0</priority>
   </url>
   
